@@ -37,10 +37,10 @@
 
 # Products-app & Supplier-app
 
-## Ajouter un client
+## Liste des clients
 <img width="950" alt="24client_ajout" src="https://user-images.githubusercontent.com/83584345/205439311-cf16a74a-2b64-454b-9853-766fdd82a0df.png">
 
-## Ajouter un utilisateur 
+## Liste des utilisateurs
 
 <img width="953" alt="2User_ajouter" src="https://user-images.githubusercontent.com/83584345/205439325-016c9f9d-ab8d-442a-ba20-0716ee05a96f.png">
 
