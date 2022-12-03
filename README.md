@@ -41,14 +41,13 @@
 <img width="950" alt="24client_ajout" src="https://user-images.githubusercontent.com/83584345/205439311-cf16a74a-2b64-454b-9853-766fdd82a0df.png">
 
 ## Liste des utilisateurs
-
 <img width="953" alt="2User_ajouter" src="https://user-images.githubusercontent.com/83584345/205439325-016c9f9d-ab8d-442a-ba20-0716ee05a96f.png">
 
 ## S'authentifier avec le user "Assia"
 <img width="960" alt="5loginUser_Assia" src="https://user-images.githubusercontent.com/83584345/205438291-f2d055db-4b80-43b7-b0cc-76e9d22eeb81.png">
 
 ## liste de produits chez user "Assia"
-<img width="960" alt="7NomPrenomAfficher" src="https://user-images.githubusercontent.com/83584345/205438517-0ff982d9-9ef8-4d77-9b64-292068e20d24.png">
+<img width="960" alt="7NomPrenomAfficher" src="https://user-images.githubusercontent.com/83584345/205439431-3e824a8a-62aa-4b55-b1c6-f4d069c1af01.png">
 
 ## Manager est autorisé à avoir la liste des users 
 <img width="960" alt="8ManagerAuthorisation_users" src="https://user-images.githubusercontent.com/83584345/205438535-457364a7-04c3-4ce7-afbd-da3fcf923702.png">
