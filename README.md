@@ -38,10 +38,11 @@
 # Products-app & Supplier-app
 
 ## Ajouter un client
-<img width="948" alt="1Client_Ajouter" src="https://user-images.githubusercontent.com/83584345/205438210-8188aeb2-3079-4a30-be7e-8a28827e746e.png">
+<img width="950" alt="24client_ajout" src="https://user-images.githubusercontent.com/83584345/205439311-cf16a74a-2b64-454b-9853-766fdd82a0df.png">
 
 ## Ajouter un utilisateur 
-<img width="950" alt="24client_ajout" src="https://user-images.githubusercontent.com/83584345/205438409-a57d69b5-4f07-4e2f-b0bd-453117adffe0.png">
+
+<img width="953" alt="2User_ajouter" src="https://user-images.githubusercontent.com/83584345/205439325-016c9f9d-ab8d-442a-ba20-0716ee05a96f.png">
 
 ## S'authentifier avec le user "Assia"
 <img width="960" alt="5loginUser_Assia" src="https://user-images.githubusercontent.com/83584345/205438291-f2d055db-4b80-43b7-b0cc-76e9d22eeb81.png">
