@@ -84,11 +84,10 @@
 ![WhatsApp Image 2022-12-03 at 12 39 19](https://user-images.githubusercontent.com/83584345/205439190-c7e75c3c-1d90-4c82-97ee-df31ccd517d1.jpeg)
 
 ## Changer le password
-<img width="960" alt="21ChangePassword" src="https://user-images.githubusercontent.com/83584345/205438791-cdcd3322-0393-4a85-9633-44567a56b26c.png">
+<img width="960" alt="21ChangePassword" src="https://user-images.githubusercontent.com/83584345/205439514-64f40e18-b594-4c85-878f-2ecc21207295.png">
 
 ## Mettre à jour le password 
 <img width="960" alt="22UpdatePassword" src="https://user-images.githubusercontent.com/83584345/205438799-31481111-55c4-4abd-a468-d17a0e11740b.png">
 
 ## Mettre à jour le password à été éffectué 
-<img width="947" alt="23UpdatePasswordEffectué" src="https://user-images.githubusercontent.com/83584345/205438816-8290d72c-fbd1-4478-a504-51f31140136c.png">
-
+<img width="947" alt="23UpdatePasswordEffectué" src="https://user-images.githubusercontent.com/83584345/205439520-a6d45a7c-a27b-4901-8f37-57d3ec49bd7c.png">
