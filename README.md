@@ -81,7 +81,7 @@
 
 ## Authentification par Code QR
 ![20_Authentification_parCodeQr](https://user-images.githubusercontent.com/83584345/205438776-be8d667e-0c9e-41ed-a2da-71440b90402b.png)
-![WhatsApp Image 2022-12-03 at 12 39 19](https://user-images.githubusercontent.com/83584345/205439140-3438f3e9-f935-46c1-8b4e-8a8cb586c193.jpeg)
+![WhatsApp Image 2022-12-03 at 12 39 19](https://user-images.githubusercontent.com/83584345/205439190-c7e75c3c-1d90-4c82-97ee-df31ccd517d1.jpeg)
 
 ## Changer le password
 <img width="960" alt="21ChangePassword" src="https://user-images.githubusercontent.com/83584345/205438791-cdcd3322-0393-4a85-9633-44567a56b26c.png">
