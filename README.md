@@ -49,7 +49,7 @@
 ## liste de produits chez user "Assia"
 <img width="960" alt="7NomPrenomAfficher" src="https://user-images.githubusercontent.com/83584345/205439431-3e824a8a-62aa-4b55-b1c6-f4d069c1af01.png">
 
-## Manager est autorisé à avoir la liste des users 
+## Manager est autorisé à voir la liste des utilisateurs
 <img width="960" alt="8ManagerAuthorisation_users" src="https://user-images.githubusercontent.com/83584345/205438535-457364a7-04c3-4ce7-afbd-da3fcf923702.png">
 
 ## Liste de suppliers chez user "Anas = Manager" 
